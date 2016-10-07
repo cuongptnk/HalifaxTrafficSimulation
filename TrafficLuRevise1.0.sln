@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{ACBF001E-B76C-19AF-C79F-254BDE778488}") = "TrafficLuRevise1.0", "Assembly-CSharp.csproj", "{8D6C80CE-8ADA-8BF3-2CD3-CFFD4DC71984}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D6C80CE-8ADA-8BF3-2CD3-CFFD4DC71984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6C80CE-8ADA-8BF3-2CD3-CFFD4DC71984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6C80CE-8ADA-8BF3-2CD3-CFFD4DC71984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6C80CE-8ADA-8BF3-2CD3-CFFD4DC71984}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
